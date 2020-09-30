@@ -1,0 +1,12 @@
+.wrapper {
+    top: 50%;
+    transform: translateY(-50%);
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 50%;
+    height: 80%;
+    background-color: white;
+    box-shadow: 0 20px 40px -10px rgba(#818181, .5);
+    position: fixed;
+}
